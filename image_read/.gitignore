@@ -1,0 +1,6 @@
+node_modules
+.serverless
+.npmignore
+
+package-lock.json
+yarn.lock
