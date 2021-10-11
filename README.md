@@ -12,4 +12,4 @@ Geralmente essas funções são assíncronas sem a necessidade de execução ime
 
 ## Desvantagens
 * Quanto maior o tempo de execução de uma função, maior será o __custo__;
-* O _debugging_ e testes desses serviços são díficeis;
+* O _debugging_ e testes desses serviços são mais difíceis;
