@@ -1,0 +1,15 @@
+type Item {
+  title: String
+  url: String
+}
+
+type Query {
+  getFirstItem: Item
+}
+
+type Mutation {}
+
+schema {
+  query: Query
+  mutation: Mutation
+}

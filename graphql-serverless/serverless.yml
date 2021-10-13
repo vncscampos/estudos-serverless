@@ -1,0 +1,7 @@
+org: vncscampos
+app: graphql-serverless
+component: graphql
+name: graphql-starter
+
+inputs:
+  src: ./
